@@ -16,6 +16,10 @@ This is a WordPress widget to display a Facebook fan and like box on the sidebar
 This is a WordPress widget to display a Facebook fan box on the sidebar.
 This widget displays the fans of your Facebook profile page. This widget is easy to install because it is packaged as WordPress plugin that can be installed very quickly.
 
+Screenshots :
+
+http://newplugins.us/facebook-fan-and-like-wp-widget/
+
 The Facebook fan box also has 'Like' button. This button interacts with your blog readers directly, so if it is clicked, it will add up to the number of your fans.
 
 This widget requires WordPress version 2.8 or above to function properly.
@@ -43,4 +47,4 @@ In the Appearance -> Widgets in WordPress 2.8 or newer you'll find the Facebook 
 
 == Screenshots ==
 
-
+http://newplugins.us/facebook-fan-and-like-wp-widget/
