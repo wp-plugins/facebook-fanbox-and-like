@@ -1,4 +1,4 @@
-=== Facebook Fan and like ===
+=== Facebook Fan and like box widget ===
 Contributors: vaske2408
 
 Tags: facebook fan box, facebook, facebook fan box, facebook like, wp facebook fan box, wp facebok,facebok

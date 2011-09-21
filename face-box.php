@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name:  Facebook Fan and like
+Plugin Name:  Facebook Fan and like box widget
 Plugin URI: http://newplugins.us/facebook-fan-and-like-wp-widget/
 Description: Display facebook fan box as widgetss in your WordPress blog.
 Author: vaske2408
