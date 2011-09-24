@@ -24,10 +24,10 @@ along with this program; if not, write to the Free Software
 Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
 */
 
-// wordpress plugin action hook
+
 add_action('plugins_loaded', 'face_box_1');
 
-// face_box_2ialization function
+
 global $fanbox_fan_box;
 function face_box_1() {
    $fanbox_fan_box = new wp_fansy();

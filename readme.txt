@@ -36,7 +36,7 @@ In the Appearance -> Widgets in WordPress 2.8 or newer you'll find the Facebook 
 2. Activate the plugin through the 'Plugins' menu in WordPress.
 3. Go to Appearance -> Widget -> Facebook Fan Box, drag and drop it to sidebar area, and start entering your info.
 
-= Uninstall =
+
 
 
 
